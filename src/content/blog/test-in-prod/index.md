@@ -6,6 +6,7 @@ summary: "### 2. **Social Media**\n- Report on Twitter/LinkedIn if they're promo
 tags: []
 ---
 
+
 # DMCA Takedown Notice for GitHub
 
 ## Instructions:
@@ -95,4 +96,5 @@ If DMCA doesn't work:
 - Use code obfuscation if needed
 - Monitor for future infringements
 - Set up Google alerts for your code snippets
+
 
